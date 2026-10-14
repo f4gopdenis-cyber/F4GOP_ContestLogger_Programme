@@ -9,7 +9,10 @@ décodeur CW, rapport PDF d'après contest, score 3830, et bien plus.
 
 1. Ouvre **[Releases](../../releases/latest)** (colonne de droite).
 2. Télécharge **`F4GOP_ContestLogger_Windows_x.y.z.zip`**.
-3. Décompresse-le dans un dossier stable (ex. `C:\F4GOP_ContestLogger`) et lance **`F4GOP_ContestLogger.exe`**.
+3. Fais **clic droit › Extraire tout…** dans un dossier stable (ex. `C:\`), puis ouvre le dossier
+   `F4GOP_ContestLogger` et lance **`F4GOP_ContestLogger.exe`** (icône : une antenne).
+   L'exe doit rester dans ce dossier, à côté du dossier `contests` : pour le bureau, crée un **raccourci**
+   (clic droit sur l'exe › Envoyer vers › Bureau) plutôt que d'y copier l'exe.
 
 Au premier lancement, Windows SmartScreen peut afficher « Windows a protégé votre ordinateur » (programme non
 signé) : clique sur **Informations complémentaires** puis **Exécuter quand même**.
@@ -20,6 +23,11 @@ Les mises à jour se font ensuite en un clic depuis le programme.
 
 Le **[manuel d'utilisation complet (PDF)](Manuel_F4GOP_ContestLogger.pdf)** est aussi dans le programme :
 *Aide › Manuel d'utilisation*.
+
+## Contact
+
+Avis, idées, problèmes : **f4gop.denis@gmail.com**
+(pour un problème, joins le rapport : *Aide › Diagnostic des liaisons › Copier le rapport*).
 
 ## Licence
 
