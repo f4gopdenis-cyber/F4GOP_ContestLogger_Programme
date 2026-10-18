@@ -31,5 +31,7 @@ Avis, idées, problèmes : **f4gop.denis@gmail.com**
 
 ## Licence
 
-Programme gratuit pour un usage radioamateur. Le code source n'est pas public.
-© F4GOP — tous droits réservés.
+Gratuiciel : gratuit pour tous les radioamateurs et radio-clubs. © 2026 Denis F4GOP — tous droits réservés.
+Revente, modification, décompilation ou diffusion sous un autre nom interdites ; fourni sans garantie.
+Texte complet : **[LICENCE.txt](LICENCE.txt)** (aussi dans le zip et dans le programme : *Aide › Licence
+d'utilisation*). Pour partager le programme, donnez de préférence le lien de cette page.

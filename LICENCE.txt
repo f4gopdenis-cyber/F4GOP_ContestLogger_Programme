@@ -1,0 +1,59 @@
+F4GOP CONTEST LOGGER — LICENCE D'UTILISATION (GRATUICIEL)
+Version 1.0 du 18 octobre 2026
+
+© 2026 Denis, F4GOP (Flers, France). Tous droits réservés.
+Contact : f4gop.denis@gmail.com
+Site officiel : https://github.com/f4gopdenis-cyber/F4GOP_ContestLogger_Programme
+
+En installant ou en utilisant F4GOP Contest Logger (« le Logiciel »), vous acceptez la présente licence. Si vous ne l'acceptez pas, n'utilisez pas le Logiciel et supprimez-le.
+
+1. AUTEUR ET PROPRIÉTÉ
+Le Logiciel (programme, code, textes, manuel, images, définitions de contests) est l'œuvre de Denis, F4GOP, qui en reste le seul auteur et propriétaire. Il est protégé par le droit d'auteur (Code de la propriété intellectuelle) et les conventions internationales. La présente licence vous donne un droit d'utilisation ; elle ne vous transfère aucun droit de propriété.
+
+2. UTILISATION GRATUITE
+Le Logiciel est gratuit. Vous pouvez l'installer et l'utiliser sur autant d'ordinateurs que vous voulez, pour votre activité de radioamateur, en station personnelle, en radio-club ou en expédition (DXpédition, field day, multi-opérateur).
+
+3. CE QUI EST INTERDIT
+Sans l'accord écrit de l'auteur, il est interdit de :
+  a) vendre, louer ou faire payer le Logiciel, seul ou avec un autre produit ou service ;
+  b) le modifier, le traduire, le décompiler, le désassembler ou chercher à en reconstituer le code source, sauf dans les cas où la loi l'autorise expressément ;
+  c) le distribuer sous un autre nom, retirer ou changer le nom de l'auteur, l'indicatif F4GOP ou ce texte ;
+  d) l'intégrer, en tout ou en partie, dans un autre logiciel ;
+  e) l'utiliser d'une manière contraire à la réglementation radioamateur ou à la loi.
+
+4. PARTAGE
+Vous pouvez donner le Logiciel à d'autres radioamateurs, gratuitement, à condition de transmettre le fichier d'origine complet et sans modification (programme, manuel et cette licence). Le plus sûr est de donner le lien du site officiel ci-dessus : c'est là que se trouve toujours la dernière version, sans risque de copie modifiée.
+
+5. AUCUNE GARANTIE
+Le Logiciel est fourni « tel quel », gratuitement, sans aucune garantie, ni expresse ni implicite : ni qu'il fonctionne sans erreur ou sans interruption, ni qu'il convient à un usage particulier, ni que les scores, multiplicateurs, contrôles de doublons, comptes rendus (Cabrillo, ADIF, REF…) ou informations affichées (pays, zones, propagation, cluster, classements en ligne) sont exacts. Vérifiez vos comptes rendus avant de les envoyer et suivez le règlement officiel de chaque contest.
+
+6. LIMITATION DE RESPONSABILITÉ
+Le Logiciel peut commander du matériel (émetteur-récepteur, émission CW et phonie, PTT, rotors d'antenne, commutateurs, keyer) et échanger des données par Internet (cluster, envoi de comptes rendus, mises à jour, messagerie, réseau multi-opérateur). Vous l'utilisez sous votre seule responsabilité, en restant présent et maître de votre station. Dans toute la mesure permise par la loi, l'auteur ne pourra être tenu responsable d'aucun dommage, direct ou indirect, notamment : matériel endommagé (poste, amplificateur, rotor, antenne), émission non voulue ou hors bande, perte ou altération de données ou de logs, compte rendu refusé ou déclassé, perte de points ou de classement, ou interruption de service d'un serveur extérieur.
+
+7. DONNÉES PERSONNELLES
+Le Logiciel ne collecte aucune donnée pour l'auteur. Vos réglages et vos logs restent sur votre ordinateur. Les seules données envoyées sur Internet le sont à votre demande ou selon vos réglages, vers les services que vous choisissez (cluster, 3830, robot du contest, classement en ligne, recherche d'indicatif, amis du groupe de messagerie), selon les conditions de ces services.
+
+8. ÉLÉMENTS D'AUTRES AUTEURS
+Le Logiciel contient ou utilise des éléments d'autres auteurs, chacun sous sa propre licence, qui restent applicables :
+  - Python et Tcl/Tk (Python Software Foundation License, licence Tcl/Tk) ;
+  - pyserial, pypdf, reportlab (licences BSD), sounddevice (licence MIT), pywin32 (licence PSF) ;
+  - carte du monde : Natural Earth (domaine public) et world-atlas © Michael Bostock (licence ISC) ;
+  - contours des départements : IGN Admin Express, Licence Ouverte / Open Licence (Etalab) ;
+  - fichiers téléchargés à votre demande : cty.dat (country-files.com, AD1C), MASTER.SCP (supercheckpartial.com), calendrier des contests (WA7BNM) — propriété de leurs auteurs. OmniRig, Hamlib, WSJT-X et les autres programmes qui peuvent fonctionner avec le Logiciel ne sont pas fournis avec lui et restent soumis à leurs propres licences.
+
+9. ÉVOLUTION ET FIN
+L'auteur peut à tout moment modifier le Logiciel, cette licence, ou arrêter sa diffusion. Une nouvelle version de la licence s'applique aux versions du Logiciel publiées avec elle. Si vous ne respectez pas cette licence, votre droit d'utilisation prend fin automatiquement.
+
+10. DROIT APPLICABLE
+La présente licence est soumise au droit français. En cas de désaccord, une solution amiable sera recherchée en priorité.
+
+──────────────────────────────────────────────────────────────────────────────────────────────
+ENGLISH SUMMARY (the French text above is the official version)
+
+F4GOP Contest Logger © 2026 Denis F4GOP — all rights reserved. Freeware licence.
+  - Free to use on any number of computers for amateur radio (personal stations, clubs, DXpeditions).
+  - You may give it to other hams free of charge, only as the complete, unmodified original files; preferably share the official link above.
+  - Not allowed without written permission: selling or charging for it, modifying, decompiling or reverse engineering it, redistributing it under another name or removing the author's name, or including it in another product.
+  - Provided "as is", without any warranty. The software can control transceivers, PTT, CW, rotators and switches and uses Internet services: you use it at your own risk and remain in control of your station. To the extent permitted by law, the author is not liable for any damage (equipment, unwanted transmission, lost logs, rejected entries, lost score).
+  - No data is collected by the author. Third-party components remain under their own licences (section 8).
+  - Governed by French law.
