@@ -24,6 +24,15 @@ Les mises à jour se font ensuite en un clic depuis le programme.
 Le **[manuel d'utilisation complet (PDF)](Manuel_F4GOP_ContestLogger.pdf)** est aussi dans le programme :
 *Aide › Manuel d'utilisation*.
 
+## Soutenir le programme
+
+F4GOP Contest Logger est **gratuit** et le restera. Si le programme vous plaît et que vous voulez soutenir son
+développement, un don est possible par PayPal : 👉 **[paypal.me/F4GOP](https://www.paypal.com/paypalme/F4GOP)**
+(aussi dans le programme : *Aide › Soutenir F4GOP Contest Logger (don)*).
+
+*F4GOP Contest Logger is **free** and will stay free. If you enjoy it and wish to support its development, you can
+make a donation with PayPal:* 👉 **[paypal.me/F4GOP](https://www.paypal.com/paypalme/F4GOP)**
+
 ## Contact
 
 Avis, idées, problèmes : **f4gop.denis@gmail.com**
